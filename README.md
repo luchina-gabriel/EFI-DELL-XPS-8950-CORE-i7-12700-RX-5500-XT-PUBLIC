@@ -1,5 +1,7 @@
 # Hackintosh, DELL XPS 8950, Intel Core i7 12700 and AMD Radeon RX 5500 XT
 
+![Overview](https://github.com/luchina-gabriel/EFI-DELL-XPS-8950-CORE-i7-12700-RX-5500-XT-PUBLIC/assets/23700365/695357ee-74ad-48d6-8ed4-a9ee138693c3)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
